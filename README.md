@@ -1,4 +1,3 @@
-# Hello! My name Vladimir Dmitriev 👋
 <div align="center">
   <div id="badges">
     <a href="https://www.linkedin.com/in/v0hmly/">
