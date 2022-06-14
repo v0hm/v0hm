@@ -1,34 +1,36 @@
 # Hello! My name Vladimir Dmitriev 👋
+<div align="center">
+  <div id="badges">
+    <a href="https://www.linkedin.com/in/v0hmly/">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="https://t.me/v0hmly">
+      <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+    </a>
+  </div>
+  <img src="https://komarev.com/ghpvc/?username=brainlux&style=flat-square&color=blue" alt=""/>
+  
+  <h1>
+  Hi there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px"/>
+  </h1>
+</div>
 
-[![Visits Badge](https://badges.pufler.dev/visits/v0hm/v0hm)](https://badges.pufler.dev)
-[![Commits Badge](https://badges.pufler.dev/commits/monthly/v0hm)](https://badges.pufler.dev)
-[![Commits Badge](https://badges.pufler.dev/repos/v0hm)](https://badges.pufler.dev)
-[![Years Badge](https://badges.pufler.dev/years/v0hm)](https://badges.pufler.dev)
-
-
-
+### :man_technologist: About Me:
 - 🌱 I’m currently learning Golang
 - 🔭 I study at ITMO University
-- 🤔 I’m currently working as a Golang Backend developer in Clapp Studio, Russia and Content Administrator in Practicum, Russia
+- 🤔 I’m currently working as a Golang Backend developer in [Clapp Studio](https://clapp.studio/), Russia and Content Administrator in [Practicum](https://practicum.com/), Russia
 - 📫 To reach me write to [telegram](https://t.me/v0hmly)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=v0hm&layout=compact&langs_count=6&theme=dracula)
+---
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=v0hm&count_private=true&show_icons=true&theme=tokyonight&hide_border=true" width = 400>
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=v0hm&theme=tokyonight&hide_border=true" width = 400>
+</p>
 
-![Volodya's github stats](https://github-readme-stats.vercel.app/api?username=v0hm&count_private=true&show_icons=true&theme=dracula)
+---
 
-
-<!--
-**v0hm/v0hm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=v0hm&layout=compact&langs_count=4&theme=tokyonight&hide=java,C%23&hide_border=true" width = 400>
+</p
