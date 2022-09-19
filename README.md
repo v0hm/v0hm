@@ -18,7 +18,7 @@
 ### :man_technologist: About Me:
 - 🌱 I’m currently learning Golang
 - 🔭 I study at ITMO University
-- 🤔 I’m currently working as a Golang Backend developer in [Clapp Studio](https://clapp.studio/), Russia and Content Administrator in [Practicum](https://practicum.com/), Russia
+- 🤔 I’m currently working as a Content Administrator in [Practicum](https://practicum.com/), Russia
 - 📫 To reach me write to [telegram](https://t.me/v0hmly)
 
 
