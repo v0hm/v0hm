@@ -6,6 +6,9 @@
     <a href="https://t.me/v0hmly">
       <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
     </a>
+    <a href="https://www.codewars.com/users/v0hm">
+      <img src="https://img.shields.io/badge/Codewars-red?style=for-the-badge&logo=codewars&logoColor=white" alt="Codewars Badge"/>
+    </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=v0hm&style=flat-square&color=blue" alt=""/>
   
