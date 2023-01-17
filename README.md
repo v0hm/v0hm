@@ -20,7 +20,6 @@
 
 ### :man_technologist: About Me:
 - 🌱 I’m currently learning Golang
-- 🔭 I study at ITMO University
 - 🤔 I’m currently working as a Content Administrator in [Practicum](https://practicum.com/), Russia
 - 📫 To reach me write to [telegram](https://t.me/v0hmly)
 
