@@ -6,12 +6,6 @@
     <a href="https://t.me/v0hmly">
       <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
     </a>
-    <a href="https://www.codewars.com/users/v0hm">
-      <img src="https://img.shields.io/badge/Codewars-red?style=for-the-badge&logo=codewars&logoColor=white" alt="Codewars Badge"/>
-    </a>
-    <a href="https://leetcode.com/v0hm/">
-      <img src="https://img.shields.io/badge/LeetCode-yellow?style=for-the-badge&logo=leetcode&logoColor=white" alt="Leetcode Badge"/>
-    </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=v0hm&style=flat-square&color=blue" alt=""/>
   
@@ -23,18 +17,18 @@
 
 ### :man_technologist: About Me:
 - 🌱 I’m currently learning Golang
-- 🤔 I’m currently working as a Python Content Administrator in [Practicum](https://practicum.com/), Russia
-- 📫 To reach me write to [telegram](https://t.me/v0hmly)
+- 🤔 I’m currently working as a Python developer in [Tripleten](https://tripleten.com/), Russia
+- 📫 To reach me write to [Telegram](https://t.me/v0hmly)
 
 
 ---
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=v0hm&count_private=true&show_icons=true&theme=tokyonight&hide_border=true" width = 400>
-  <img src = "https://github-readme-streak-stats.herokuapp.com?user=v0hm&theme=tokyonight&hide_border=true" width = 400>
+  <img src = "https://github-readme-stats.vercel.app/api?username=v0hmly&count_private=true&show_icons=true&theme=tokyonight&hide_border=true" width = 400>
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=v0hmly&theme=tokyonight&hide_border=true" width = 400>
 </p>
 
 ---
 
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=v0hm&layout=compact&langs_count=4&theme=tokyonight&hide=java,C%23&hide_border=true" width = 400>
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=v0hmly&layout=compact&langs_count=4&theme=tokyonight&hide=java,C%23&hide_border=true" width = 400>
 </p
