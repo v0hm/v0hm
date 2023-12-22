@@ -17,5 +17,5 @@
 
 ### :man_technologist: About Me:
 - 🌱 I’m currently learning Golang
-- 🤔 I’m currently working as a Python developer in [Tripleten](https://tripleten.com/), Russia
+- 🤔 I’m currently working as a Python developer in [Tripleten](https://tripleten.com/), USA
 - 📫 To reach me write to [Telegram](https://t.me/v0hmly)
